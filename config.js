@@ -175,8 +175,8 @@ const CONFIG = {
 					link: 'https://www.amazon.com/Amazon-Video/b?node=2858778011&ref_=nav_em__aiv_0_2_2_2',
 				},
 				{
-					name: 'Twitch',
-					link: 'https://www.twitch.tv/directory/following/live',
+					name: 'Peacock',
+					link: 'https://www.peacocktv.com/watch/home',
 				},
 			],
 		},
@@ -219,8 +219,8 @@ const CONFIG = {
 					link: 'https://rumble.com/',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv/directory/following/live',
 				},
 				{
 					name: 'Repos',
