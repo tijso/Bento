@@ -175,8 +175,8 @@ const CONFIG = {
 					link: 'https://www.amazon.com/Amazon-Video/b?node=2858778011&ref_=nav_em__aiv_0_2_2_2',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv/directory/following/live',
 				},
 			],
 		},
