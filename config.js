@@ -137,16 +137,16 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'github',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Github',
+					link: 'https://github.com/tijso',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Gitlab',
+					link: 'https://gitlab.com/',
 				},
 				{
 					name: 'Oldies',
@@ -207,7 +207,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'music',
 			id: '2',
 			links: [
 				{
