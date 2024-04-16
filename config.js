@@ -189,20 +189,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Amazon',
+					link: 'https://www.amazon.com/',
+				},
+				{
+					name: 'Instagram',
+					link: 'https://www.instagram.com/',
+				},
+				{
+					name: 'X',
+					link: 'https://twitter.com/home?lang=en',
 				},
 				{
 					name: 'Reddit',
 					link: 'https://www.reddit.com',
-				},
-				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
-				},
-				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
 				},
 			],
 		},
@@ -211,8 +211,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Spotify',
+					link: 'https://www.spotify.com',
 				},
 				{
 					name: 'Rust',
