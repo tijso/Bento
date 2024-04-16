@@ -178,6 +178,10 @@ const CONFIG = {
 					name: 'Slack',
 					link: 'https://www.slack.com',
 				},
+				{
+					name: 'YouTube',
+					link: 'https://www.youtube.com/feed/subscriptions',
+				},
 			],
 		},
 	],
