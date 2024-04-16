@@ -141,20 +141,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
+					name: 'Google',
+					link: 'https://www.google.com/',
+				},
+				{
+					name: 'Brave Search',
+					link: 'https://search.brave.com/',
+				},
+				{
 					name: 'Github',
 					link: 'https://github.com/tijso',
 				},
 				{
 					name: 'Gitlab',
 					link: 'https://gitlab.com/',
-				},
-				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
 		},
