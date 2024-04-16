@@ -163,8 +163,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'YouTube',
+					link: 'https://www.youtube.com/feed/subscriptions',
 				},
 				{
 					name: 'Dribbble',
@@ -177,10 +177,6 @@ const CONFIG = {
 				{
 					name: 'Slack',
 					link: 'https://www.slack.com',
-				},
-				{
-					name: 'YouTube',
-					link: 'https://www.youtube.com/feed/subscriptions',
 				},
 			],
 		},
