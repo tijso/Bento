@@ -223,8 +223,8 @@ const CONFIG = {
 					link: 'https://www.twitch.tv/directory/following/live',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'Mastodon',
+					link: 'https://fosstodon.org/home"',
 				},
 			],
 		},
