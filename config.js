@@ -215,8 +215,8 @@ const CONFIG = {
 					link: 'https://www.spotify.com',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Rumble',
+					link: 'https://rumble.com/',
 				},
 				{
 					name: 'Go',
