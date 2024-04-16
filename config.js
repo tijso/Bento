@@ -167,12 +167,12 @@ const CONFIG = {
 					link: 'https://www.youtube.com/feed/subscriptions',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Hulu',
+					link: 'https://www.hulu.com/hub/home',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Prime Video',
+					link: 'https://www.amazon.com/Amazon-Video/b?node=2858778011&ref_=nav_em__aiv_0_2_2_2',
 				},
 				{
 					name: 'Slack',
